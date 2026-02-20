@@ -15,6 +15,5 @@ public class SuperQue {
 		
 		bank2 obj = new bank2();
 		obj.display();
-	}
 
 }
